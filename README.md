@@ -1,2 +1,2 @@
-# CSharph-Solutions
+# CSharp-Solutions
 Solutions of real-live problems using OOP principles
