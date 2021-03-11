@@ -1,0 +1,26 @@
+C:\Users\Mariela\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+C:\Users\Mariela\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\Mariela\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\Mariela\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\Mariela\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\Mariela\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\Mariela\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\Mariela\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\Mariela\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\Mariela\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\Mariela\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\Mariela\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\Mariela\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
+C:\Users\Georgi\Desktop\SoftUni\STUDYING\C# OOP\Exam Testing 09.12.2020\C# OOP Testing\Bakery Skelethon\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
